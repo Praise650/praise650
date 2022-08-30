@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm Praise Afuwape</h2>
-<h3 align="center">Mobile Developer with a love for Dart, Java,Flutter</h3>
+<h3 align="center">Mobile Developer with a love for Dart, Java, Flutter</h3>
 
 <p align="center"> <a href="https://twitter.com/afuwape_praise" target="blank"><img src="https://img.shields.io/twitter/follow/afuwape_praise?logo=twitter&style=for-the-badge" alt="afuwape_praise" /></a> </p>
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=afuwape_praise&label=Total%20Profile%20Views&color=800080&style=flat" alt="afuwape_praise" /> </p> -->
@@ -16,7 +16,7 @@
 
 <!-- - 📝 I regularly write articles on [https://blog.elcharitas.dev](https://blog.elcharitas.dev) -->
 
-- 💬 Ask me about **Flutter, Android, Dart,**
+- 💬 Ask me about **Flutter, Android, Dart, Java**
 
 - 📫 How to reach me **ayokanmi1275@gmail.com**
 
