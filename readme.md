@@ -29,9 +29,11 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=praise650&show_icons=false&locale=en&langs_count=15" alt="praise650" /></p>
 
-<!-- <a href="https://app.daily.dev/elcharitas"><img src="https://api.daily.dev/devcards/cf82a72702dc436bb0d59be992f22761.png?r=95r" width="300" alt="Jonathan Irhodia | Web3 Engineer's Dev Card"/></a> -->
+<!-- <a href="https://app.daily.dev/praise650"><img src="https://api.daily.dev/devcards/cf82a72702dc436bb0d59be992f22761.png?r=95r" width="300" alt="Praise Afuwape | Mobile Dev Card"/></a> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=praise650&" alt="praise650" /></p>
+
+[![Praise Afuwape's github activity graph](https://activity-graph.herokuapp.com/graph?username=praise650&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## Languages and Tools
 <p align="center"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
