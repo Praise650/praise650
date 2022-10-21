@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Foresight Ridge UI]
 
-<!-- (https://github.com/elcharitas/chakra-ui-svelte) -->
+- 🔭 I’m currently working on [Bloxity](https://github.com/Praise650/Bloxity) 
 
 <!-- - 🌱 I’m currently learning **RedwoodJs, Snaplet, Prisma** -->
 
