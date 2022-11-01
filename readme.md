@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm Praise Afuwape</h2>
-<h3 align="center">Mobile Developer with a love for Dart, Java, Flutter</h3>
+<h3 align="center">A passionate Mobile Developer with a flair for Dart, Java, Flutter</h3>
 
 <p align="center"> <a href="https://twitter.com/PraiseAfuwape" target="blank"><img src="https://img.shields.io/twitter/follow/PraiseAfuwape?logo=twitter&style=for-the-badge" alt="PraiseAfuwape" /></a> </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=PraiseAfuwape&label=Total%20Profile%20Views&color=800080&style=flat" alt="PraiseAfuwape" /> </p>
@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/praise650](https://github.com/praise650)
 
-<!-- - 📝 I regularly write articles on [https://blog.elcharitas.dev](https://blog.elcharitas.dev) -->
+<!-- - 📝 I sometimes write articles on [https://blog.elcharitas.dev](https://blog.elcharitas.dev) -->
 
 - 💬 Ask me about **Flutter, Android, Dart, Java**
 
@@ -22,7 +22,7 @@
 
 <!-- - 📄 Know about my experiences [https://elcharitas.dev](https://elcharitas.dev) -->
 
-<!-- - ⚡ Fun fact **I read code more than I write it** -->
+- ⚡ Fun fact **I play the guitar**
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=praise650&theme=dracula" alt="praise650" /></a> </p>
