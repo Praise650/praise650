@@ -6,7 +6,8 @@
 
 - 🔭 I’m currently working on [Foresight Ridge UI]
 
-- 🔭 I’m currently working on [Bloxity](https://github.com/Praise650/Bloxity) 
+- 🔭 I’m currently working on [Bloxity](https://github.com/Praise650/Bloxity)
+- - 🔭 I’m currently working on [Soorvay App](https://github.com/Praise650/survey_app) 
 
 <!-- - 🌱 I’m currently learning **RedwoodJs, Snaplet, Prisma** -->
 
@@ -23,6 +24,7 @@
 <!-- - 📄 Know about my experiences [https://elcharitas.dev](https://elcharitas.dev) -->
 
 - ⚡ Fun fact **I play the guitar**
+- 
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=praise650&theme=dracula" alt="praise650" /></a> </p>
