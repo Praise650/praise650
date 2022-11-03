@@ -7,7 +7,8 @@
 - 🔭 I’m currently working on [Foresight Ridge UI]
 
 - 🔭 I’m currently working on [Bloxity](https://github.com/Praise650/Bloxity)
-- - 🔭 I’m currently working on [Soorvay App](https://github.com/Praise650/survey_app) 
+
+- 🔭 I’m currently working on [Soorvay App](https://github.com/Praise650/survey_app) 
 
 <!-- - 🌱 I’m currently learning **RedwoodJs, Snaplet, Prisma** -->
 
