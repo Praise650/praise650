@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **ayokanmi1275@gmail.com**
 
-- 📫 Socials **[Twitter](https://twitter.com/PraiseAfuwape),[LinkedIn](https://www.linkedin.com/in/praise-afuwape-a47a95214/)**
+- 📫 Socials **[Twitter](https://twitter.com/PraiseAfuwape) [LinkedIn](https://www.linkedin.com/in/praise-afuwape-a47a95214/)**
 
 <!-- - 📄 Know about my experiences [https://elcharitas.dev](https://elcharitas.dev) -->
 
