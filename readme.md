@@ -22,6 +22,8 @@
 
 - 📫 How to reach me **ayokanmi1275@gmail.com**
 
+- 📫 Socials **[Twitter](https://twitter.com/PraiseAfuwape)**
+
 <!-- - 📄 Know about my experiences [https://elcharitas.dev](https://elcharitas.dev) -->
 
 - ⚡ Fun fact **I play the guitar**
