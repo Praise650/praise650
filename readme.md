@@ -14,6 +14,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/praise650](https://github.com/praise650)
 
+- 👨‍💻 All of my projects are available at [praiseafuwape](bit.ly/praiseafuwape)
+  
 <!-- - 📝 I sometimes write articles on [https://blog.elcharitas.dev](https://blog.elcharitas.dev) -->
 
 - 💬 Ask me about **Flutter, Android, Dart, Java**
